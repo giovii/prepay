@@ -36,6 +36,8 @@ x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = fa
 
     <x-navbar/>
 
+
+
     <div class="container flex items-center h-full mx-auto">
         <div class="flex flex-col mb-4">
             <div class="flex flex-col items-start w-1/3 mb-4">
